@@ -1,0 +1,17 @@
+# Build artifacts
+build/
+.build/
+GrandLine.app/
+GrandLine.zip
+LANBeam.app/
+
+# SwiftPM / Xcode
+.swiftpm/
+*.xcuserstate
+DerivedData/
+
+# Workspace-local metadata
+.workbuddy/
+
+# macOS
+.DS_Store
